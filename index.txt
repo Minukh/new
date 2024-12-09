@@ -10,6 +10,9 @@
 <p>This is the first file in my new Git Repo.</p>
 <p>new line</p>
 <p>add an image</p>
+<p>another image</p>
+<p> new image</p>
+
 
 </body>
 </html>
