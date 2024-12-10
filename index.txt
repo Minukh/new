@@ -13,6 +13,6 @@
 <p>add an image</p>
 <p>another image</p>
 <p> new image</p>
-
+<p>pull practice</p>
 </body>
 </html>
